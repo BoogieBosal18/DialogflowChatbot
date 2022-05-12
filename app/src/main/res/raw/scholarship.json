@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scholarship-345107",
+  "private_key_id": "4e450a66210926af3525d584933ba995b4a1ce2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDr9qyxyWwgbfZV\nD+AWDNHznl2/A3fPXxPNSHcN9RE+fDe2z4dVPuqIe2n6fVtz7ucEe56uYJ9YGab9\n697bRWY4fI1AEzMqv+vkUDORbLZFQBor9Q2F4dbZyXy/SKk9DrareNuE/T93V3Lv\neKwEnt1UkEyipqPE4JPyACuZpuR1e4axWRfdcTylVDE9pWirlVV7kbgBHYmAEHZt\n6YO818+7yENSNYXCVVOBPJSfAnpJfa6RJNAQqQQzg+4semG+0vhZbp/fTn9HQxhK\nb8jUYtiOwnxOb9AZnUtulmNKhJ/xk4scm2YFtHhP5lA9hqETJbERlDi0GeFDcPMq\nCFnsyJevAgMBAAECggEAA8qR2cVvvFGn/JPluNT55p0rym7m1OklK043w3yli0h5\nqLFK7l61a/33pPOwrXswMQ0/bnPU+5hl63yHtyQ1UUEHD/l+//fXdXKocXS6tQAj\nq4MjdXw8dIFdRMGJHpcG7lhhxpA/Hc7E5P4eXXCkA8DRymc9CGPHXMMN8EkTMKQE\njh7HykdrZ4tKP7oJMX1jJp0B+Vi8Gel9Z+bhPrStwrJlS3KXgYuZBFEQc2fPcomC\nEd/0RulEywdgvzDETOsN20T1kMZcj4sm9e9Tv3XJPeYOvy7qGZFlzKgqrJlshd9J\ncPJiHwZQ+FkMVPlXpUIPOsN/LCMmigMXbJb0V4tNsQKBgQD9kpykKqHA3pPL7k9f\nnSFbbLwmq8c1vQo6fuKqVrtaDFOuRQw3vhRAfCst052YU/a1JcFUx9fyaCY1zPXH\nyUk+341iD6SAoOzmujfqrECVGVfzxzClAsXU2ESLYJ+wRv1a3b0QaJAsmwDyBXX4\nqWJu5WpaY/MCfzFTu5YzWwYXKQKBgQDuOOk09dv1lfWwL2s0sHgydeBddrb6YaJ6\nziMDzTXfl5eXw4Zt1NJSAeNEKHGPdWqgGmztGE3b/mDvbAj6y6LR87mnY0Ck9qJo\nurGAm/hG8FwIWSMkKit93gv9Ksg4CugKv8MWyn93EA9C/BhJc81ZzDMfUFEB+o2O\nfauK2sfLFwKBgQDJkUHzPfBW4JecBFQULVPW2Ri3pNU2Yo8+8J49ybQkYKgkX77W\nkMKIgCvSweUEsbnrRZfpTPLcPu4g1kyKA/e1gv9gdA7QMRwgTOcmJMcxvnOr1StW\nAF5CU6gpIyXNeqDrGliwMm5pBs45lR2yDPOyM6vXLpx9353Wccd0C2dMAQKBgFRq\n5nlWBrRoh7//jcYGIxH+o5t7Tiw8HQ/XrKDUP5sUZSvqpeCV4lIdSSQGEPf9a+OA\neckrK6wh4Mf3SNdXAkPUUp32lhnfLH5gajZhDwJUesiajdFrAC6CWU1Fs93oP4JP\nohqZd8IBducN3q1o1ARWUGdwVsSUvUUZU4jJLrPRAoGAIdJBumlrXz+e/ZflGymh\noPTw0iK7IY9kepzGLjhUbrrujaxv/K8UjgPZaGfjZjvTFmxQxyROl/ERSMdx8Nop\nyRDrT4NaxQ5vueE5p/4bFDGfc+lwAN6JfGaahDqYOmpw544NCUbVHmr/xRJhNl5y\nsL7G3ActLkzu8Dbr28eMl8M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "boogiesholarship@scholarship-345107.iam.gserviceaccount.com",
+  "client_id": "112842851222510667598",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boogiesholarship%40scholarship-345107.iam.gserviceaccount.com"
+}
